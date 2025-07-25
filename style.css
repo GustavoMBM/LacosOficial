@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Yesteryear&display=swap');
+
+body{
+    background-color: #b6e1f4;
+}
+
 #titulo{
     font-family: "Yesteryear", cursive;
     font-size: 60px;
@@ -17,7 +22,7 @@
 #margem{
     margin-left: 0px;
     margin-right: 100px;
-    width: 100%
+    width: 100%;
 }
 #imagusuario{
     margin-left: 20px;
